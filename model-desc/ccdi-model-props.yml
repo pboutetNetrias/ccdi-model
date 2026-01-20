@@ -80,6 +80,7 @@ PropDefinitions:
         Version: "1.00"
     Enum:
       - "Germline"
+      - "N/A"
       - "Not Reported"
       - "Somatic"
       - "Somatic Mosaic"
