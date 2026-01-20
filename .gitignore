@@ -1,0 +1,77 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+junit.xml
+
+# Type checking / linting
+.mypy_cache/
+.pyright/
+.ruff_cache/
+
+# ----------------------------
+# Jupyter / notebooks
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# OS / Editor
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# VS Code (keep workspace settings optional)
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# JetBrains
+.idea/
+
+# ----------------------------
+# Logs / temp files
+# ----------------------------
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ----------------------------
+# Project-specific
+# ----------------------------
+# If you generate any local runtime state here, ignore it
+.cron_state/
+
+# If payloads contain secrets / local-only test data, ignore by default.
+# Remove this line if you want payloads versioned.
+# payloads/
+
+# If you generate outputs under docs/ or scripts/ locally, add patterns here
+# docs/_build/
+# scripts/output/
