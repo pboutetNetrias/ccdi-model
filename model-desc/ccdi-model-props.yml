@@ -7024,6 +7024,10 @@ PropDefinitions:
         Value: Diagnosis Disease or Disorder Text
         Version: "1.00"
     Enum:
+      - "AAAAAAAAAAAAAAAAAAA"
+      - "AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      - "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+      - "Pat's test entry"
       - "Abdominal fibromatosis"
       - "Acinar cell carcinoma"
       - "Acute erythroid leukemia"
