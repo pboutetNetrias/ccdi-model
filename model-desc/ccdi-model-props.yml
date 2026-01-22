@@ -7055,6 +7055,8 @@ PropDefinitions:
       - "Adenoid cystic carcinoma"
       - "Adenoma, NOS"
       - "Adenosarcoma"
+      - "Adrenal cortical adenoma, NOS"
+      - "Adrenal cortical carcinoma"
     Req: true
     Strict: false
     Private: false  
