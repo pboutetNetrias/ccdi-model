@@ -7032,9 +7032,6 @@ PropDefinitions:
       - "Acute Lymphoblastic Leukemia, NOS"
       - "Acute megakaryoblastic leukemia"
       - "Acute monocytic leukemia"
-      - "Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1"
-      - "Acute myeloid leukemia with abnormal marrow eosinophils"
-      - "Acute myeloid leukemia with biallelic mutation of CEBPA"
     Req: true
     Strict: false
     Private: false  
