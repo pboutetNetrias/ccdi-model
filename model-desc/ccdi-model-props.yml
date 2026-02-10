@@ -7029,8 +7029,6 @@ PropDefinitions:
       - "Acute erythroid leukemia"
       - "Acute leukemia, NOS"
       - "Acute Leukemias of Ambiguous Lineage"
-      - "Acute Lymphoblastic Leukemia, NOS"
-      - "Acute megakaryoblastic leukemia"
     Req: true
     Strict: false
     Private: false  
