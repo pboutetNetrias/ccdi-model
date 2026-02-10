@@ -7031,6 +7031,7 @@ PropDefinitions:
       - "Acute Leukemias of Ambiguous Lineage"
       - "Acute Lymphoblastic Leukemia, NOS"
       - "Acute megakaryoblastic leukemia"
+      - "Acute monocytic leukemia"
     Req: true
     Strict: false
     Private: false  
