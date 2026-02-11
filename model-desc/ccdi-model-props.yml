@@ -7028,7 +7028,6 @@ PropDefinitions:
       - "Acinar cell carcinoma"
       - "Acute erythroid leukemia"
       - "Acute leukemia, NOS"
-      - "Acute Leukemias of Ambiguous Lineage"
     Req: true
     Strict: false
     Private: false  
